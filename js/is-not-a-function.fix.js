@@ -10,6 +10,7 @@ function doSomethingSmart() {
 
   var ts = timestamp();
   // var timestamp = "something";
+  var timestampVar = "something";
   
   return true;
   
